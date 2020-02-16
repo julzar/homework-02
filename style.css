@@ -1,0 +1,29 @@
+/* div {
+    border: red solid 1px;
+} */
+
+.border-bottom-grey {
+    border-bottom: solid 1px #6c757d;
+}
+
+.btn {
+    border: solid 1px #000;
+}
+
+#image-owl {
+   float: left;
+}
+
+.border-grey {
+    border: solid 1px #6c757d;
+}
+
+#footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    border-top: solid 1px #000;
+}
+
